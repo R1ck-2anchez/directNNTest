@@ -1,0 +1,7 @@
+torch==1.12.1
+rbo
+numpy==1.22.3
+pandas==1.1.0
+tqdm==4.65.0
+torchvision==0.13.1
+scipy==1.4.1
